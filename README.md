@@ -1,2 +1,2 @@
 # MinicursoGit
-Curso de git ministrado na Uni-FACEF - 21/05/2025
+Curso de git e github ministrado na Uni-FACEF - 21/05/2025
